@@ -1,6 +1,6 @@
 
 
-export function Locations() {
+export function Location() {
 
     return (
       <>
